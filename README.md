@@ -6,7 +6,7 @@ This repository contains three data science projects completed as part of the OA
 
 # Projects
 
-1. Iris Flower Detection
+# 1. Iris Flower Detection
 
 Objective: Classify iris flowers into three species (Setosa, Versicolor, Virginica) based on their features.
 
@@ -26,7 +26,7 @@ Evaluate models using accuracy, confusion matrix, and classification report
 
 Python (Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn)
 
-2. Unemployment Analysis
+# 2. Unemployment Analysis
 
 Objective: Analyze unemployment trends and visualize the unemployment rate using data analysis techniques.
 
@@ -46,7 +46,7 @@ Provide insights into unemployment trends over time and across demographics
 
 Python (Pandas, NumPy, Matplotlib, Seaborn)
 
-3. Car Price Prediction
+# 3. Car Price Prediction
 
 Objective: Predict car prices based on features like brand, model, mileage, fuel type, and other specifications.
 
